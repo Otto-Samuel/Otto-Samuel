@@ -62,16 +62,17 @@
  <br>
  
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ottosamuel01&theme=algolia&row=2&no-bg=true&column=4&margin-w=15&margin-h=15" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Otto-Samuel&theme=gitdimmed&row=2&no-bg=true&column=4&margin-w=15&margin-h=15" />
+
 </p>
 
 <div align="center">
   <br>
   <p align="center" style="color: blue;"><b>Contagem de visitantes</b></p>  
-  <p align="center"><img align="center" src="https://profile-counter.glitch.me/{ottosamuel01}/count.svg" /></p> 
+  <p align="center"><img align="center" src="https://profile-counter.glitch.me/{Otto-Samuel}/count.svg" /></p> 
   <br>
 </div>
 
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0080C5&height=120&section=footer"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=42ba82&height=120&section=footer"/>
 
