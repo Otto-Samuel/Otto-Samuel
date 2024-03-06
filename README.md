@@ -4,14 +4,19 @@
 
 <div>
   <br></br>
+  <br></br>
+  <br></br>
 </div>
+
+
 
 
 
  <div align='center'>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ottosamuel01&show_icons=true&theme=tokyonight)
-<img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ottosamuel01&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117" />
+   ![VariableBee GitHub stats](https://github-readme-stats.vercel.app/api?username=Otto-Samuel&show_icons=true&theme=gotham)
+   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Otto-Samuel&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117" />
+
 </div>
 
 
