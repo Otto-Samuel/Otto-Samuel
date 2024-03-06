@@ -8,10 +8,6 @@
   <br></br>
 </div>
 
-
-
-
-
  <div align='center'>
 
    ![VariableBee GitHub stats](https://github-readme-stats.vercel.app/api?username=Otto-Samuel&show_icons=true&theme=gotham)
