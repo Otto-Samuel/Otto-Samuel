@@ -1,4 +1,4 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=42ba82&height=120&section=header"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=02EC9D&height=120&section=header"/>
   
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=97d5c9&size=35&center=true&vCenter=true&width=1000&lines=Olá,+meu+nome+é+Otto+Samuel+👋;tenho+20+anos;eu+sou+de+Ananideua,+PA;eu+estudo+ciência+da+computação;Seja+Bem+Vindo!+:%29)](https://git.io/typing-svg)
 
