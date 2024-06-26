@@ -22,7 +22,7 @@
 <div style="display: inline_block">
   &nbsp;
   
-  <img align="center" alt="c" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
+  <img alt="Static Badge" src="https://img.shields.io/badge/C-%23A8B9CC?style=for-the-badge&logo=C&logoColor=white&color=%23A8B9CC">
   <img align="center" alt="c#" src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white"/> 
   <img align="center" alt="c++" src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
   <img align="center" alt="html" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
