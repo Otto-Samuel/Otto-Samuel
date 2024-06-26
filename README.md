@@ -23,14 +23,14 @@
   &nbsp;
   
   <img alt="Static Badge" src="https://img.shields.io/badge/C-%23A8B9CC?style=for-the-badge&logo=C&logoColor=white&color=%23A8B9CC">
-  <img align="center" alt="c#" src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white"/> 
-  <img align="center" alt="c++" src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
-  <img align="center" alt="html" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-  <img align="center" alt="css" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-  <img align="center" alt="javascript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-  <img align="center" alt="python" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white"/>
-  <img align="center" alt="python" src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white"/>
-  <img align="center" alt="python" src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white"/>
+  <img alt="Static Badge" src="https://img.shields.io/badge/c%23-%23512BD4?style=for-the-badge&logo=c%23&logoColor=white&color=%23512BD4">
+  <img alt="Static Badge" src="https://img.shields.io/badge/c%2B%2B-%2300599C?style=for-the-badge&logo=c%2B%2B&logoColor=white&color=%2300599C">
+  <img alt="Static Badge" src="https://img.shields.io/badge/html5-%23E34F26?style=for-the-badge&logo=html5&logoColor=white&color=%23E34F26">
+  <img alt="Static Badge" src="https://img.shields.io/badge/css3-%231572B6?style=for-the-badge&logo=css3&logoColor=white&color=%231572B6">
+  <img alt="Static Badge" src="https://img.shields.io/badge/javascript-%23F7DF1E?style=for-the-badge&logo=javascript&logoColor=black&color=%23F7DF1E">
+  <img alt="Static Badge" src="https://img.shields.io/badge/python-%2314354C?style=for-the-badge&logo=python&logoColor=white&color=14354C">
+  <img alt="Static Badge" src="https://img.shields.io/badge/Java-%23ED8B00?style=for-the-badge&logo=☕ java&logoColor=black&color=ED8B00">
+  <img alt="Static Badge" src="https://img.shields.io/badge/postgresql-%234169E1?style=for-the-badge&logo=postgresql&logoColor=black&color=%234169E1">
   <img align="center" alt="mysql" src="https://camo.githubusercontent.com/63d721e5f8294c62d26a43f71778ffcccf4b23b83234050aa6ead289c3f0e987/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6d7973716c2d2532333030303030662e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d6d7973716c266c6f676f436f6c6f723d7768697465"/>
 </div>
 
