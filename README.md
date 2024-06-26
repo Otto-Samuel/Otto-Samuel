@@ -31,7 +31,8 @@
   <img alt="Static Badge" src="https://img.shields.io/badge/python-%2314354C?style=for-the-badge&logo=python&logoColor=white&color=14354C">
   <img alt="Static Badge" src="https://img.shields.io/badge/Java-%23ED8B00?style=for-the-badge&logo=☕ java&logoColor=black&color=ED8B00">
   <img alt="Static Badge" src="https://img.shields.io/badge/postgresql-%234169E1?style=for-the-badge&logo=postgresql&logoColor=black&color=%234169E1">
-  <img align="center" alt="mysql" src="https://camo.githubusercontent.com/63d721e5f8294c62d26a43f71778ffcccf4b23b83234050aa6ead289c3f0e987/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6d7973716c2d2532333030303030662e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d6d7973716c266c6f676f436f6c6f723d7768697465"/>
+  <img alt="Static Badge" src="https://img.shields.io/badge/mysql-00000F?style=for-the-badge&logo=mysql&logoColor=white&color=00000F">
+
 </div>
 
 > ### _**frameworks**_
