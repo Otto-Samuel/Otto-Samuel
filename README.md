@@ -14,7 +14,7 @@
 </div>
 
 
-### &nbsp; » tecnologias que eu utilizo 
+### &nbsp; » tecnologias que eu utilizo
 <br>
 
 > ### _**Linguagens de Programação**_
