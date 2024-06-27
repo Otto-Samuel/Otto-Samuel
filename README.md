@@ -43,9 +43,7 @@
 
 
   <br>
-  <br>
-
-
+  
 - #### <span> 🌱 Atualmente estudando C# e me aprofundando em .NET</span><br>
 - #### <span>📘 Estudando programação no Alura</span><br>
 - #### <span>🔭 Iniciei meus estudos na programação em 2021</span><br>
