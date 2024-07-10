@@ -33,7 +33,12 @@
   <img alt="Static Badge" src="https://img.shields.io/badge/Java-%23ED8B00?style=for-the-badge&logo=☕ java&logoColor=black&color=ED8B00">
   <img alt="Static Badge" src="https://img.shields.io/badge/postgresql-%234169E1?style=for-the-badge&logo=postgresql&logoColor=black&color=%234169E1">
   <img alt="Static Badge" src="https://img.shields.io/badge/mysql-00000F?style=for-the-badge&logo=mysql&logoColor=white&color=00000F">
+  <img alt="Static Badge" src="https://img.shields.io/badge/arduino-%2300878F?style=for-the-badge&logo=arduino&color=%2300878F">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/matlab/matlab-original.svg" width="20px" height="20px" />
+  
+
+  
+
 
 </div>
 
