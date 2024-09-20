@@ -33,7 +33,9 @@
   <img alt="Static Badge" src="https://img.shields.io/badge/postgresql-%234169E1?style=for-the-badge&logo=postgresql&logoColor=black&color=%234169E1">
   <img alt="Static Badge" src="https://img.shields.io/badge/mysql-00000F?style=for-the-badge&logo=mysql&logoColor=white&color=00000F">
   <img alt="Static Badge" src="https://img.shields.io/badge/arduino-%2300878F?style=for-the-badge&logo=arduino&color=%2300878F">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/matlab/matlab-original.svg" width="20px" height="20px" />
+  <img alt="Static Badge" src="https://img.shields.io/badge/Kotlin-%237F52FF?style=for-the-badge&logo=Kotlin&logoColor=white&labelColor=black&color=%237F52FF">
+
+
   
 
   
@@ -46,6 +48,7 @@
  <img alt="Static Badge" src="https://img.shields.io/badge/pytorch-%23EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white&color=%23EE4C2C">
  <img alt="Static Badge" src="https://img.shields.io/badge/django-23664D?style=for-the-badge&logo=django&logoColor=white&color=23664D">
  <img alt="Static Badge" src="https://img.shields.io/badge/flask-%23EE4C2C?style=for-the-badge&logo=flask&logoColor=white&color=%23000000">
+ 
 ![Static Badge](https://img.shields.io/badge/matlab-%23FF6341?style=for-the-badge&logo=matlab&labelColor=FF6341)
 
 
