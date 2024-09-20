@@ -36,10 +36,6 @@
   <img alt="Static Badge" src="https://img.shields.io/badge/Kotlin-%237F52FF?style=for-the-badge&logo=Kotlin&logoColor=white&labelColor=black&color=%237F52FF">
 
 
-  
-
-  
-
 
 </div>
 
@@ -48,7 +44,7 @@
  <img alt="Static Badge" src="https://img.shields.io/badge/pytorch-%23EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white&color=%23EE4C2C">
  <img alt="Static Badge" src="https://img.shields.io/badge/django-23664D?style=for-the-badge&logo=django&logoColor=white&color=23664D">
  <img alt="Static Badge" src="https://img.shields.io/badge/flask-%23EE4C2C?style=for-the-badge&logo=flask&logoColor=white&color=%23000000">
- 
+ <img alt="Static Badge" src="https://img.shields.io/badge/react-%2361DAFB?style=for-the-badge&logo=React&logoColor=%2361DAFB&labelColor=black&color=%2361DAFB">
 ![Static Badge](https://img.shields.io/badge/matlab-%23FF6341?style=for-the-badge&logo=matlab&labelColor=FF6341)
 
 
