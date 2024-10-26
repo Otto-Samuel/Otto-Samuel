@@ -31,6 +31,7 @@
   <img alt="Static Badge" src="https://img.shields.io/badge/arduino-%2300878F?style=for-the-badge&logo=arduino&color=%2300878F">
   <img alt="Static Badge" src="https://img.shields.io/badge/Kotlin-%237F52FF?style=for-the-badge&logo=Kotlin&logoColor=white&labelColor=black&color=%237F52FF">
 
+[![My Skills](https://skillicons.dev/icons?i=aws,gcp,azure,react,vue,flutter&perline=3)](https://skillicons.dev)
 
 
 </div>
