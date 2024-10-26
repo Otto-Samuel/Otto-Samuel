@@ -22,20 +22,8 @@
 <div style="display: inline_block">
   &nbsp;
   
-  <img alt="Static Badge" src="https://img.shields.io/badge/C-%23A8B9CC?style=for-the-badge&logo=C&logoColor=white&color=%23A8B9CC">
-  <img alt="Static Badge" src="https://img.shields.io/badge/c%23-%23512BD4?style=for-the-badge&logo=c%23&logoColor=white&color=%23512BD4">
-  <img alt="Static Badge" src="https://img.shields.io/badge/c%2B%2B-%2300599C?style=for-the-badge&logo=c%2B%2B&logoColor=white&color=%2300599C">
-  <img alt="Static Badge" src="https://img.shields.io/badge/html5-%23E34F26?style=for-the-badge&logo=html5&logoColor=white&color=%23E34F26">
-  <img alt="Static Badge" src="https://img.shields.io/badge/css3-%231572B6?style=for-the-badge&logo=css3&logoColor=white&color=%231572B6">
-  <img alt="Static Badge" src="https://img.shields.io/badge/javascript-%23F7DF1E?style=for-the-badge&logo=javascript&logoColor=black&color=%23F7DF1E">
-  <img alt="Static Badge" src="https://img.shields.io/badge/python-%2314354C?style=for-the-badge&logo=python&logoColor=white&color=14354C">
-  <img alt="Static Badge" src="https://img.shields.io/badge/Java-%23ED8B00?style=for-the-badge&logo=☕ java&logoColor=black&color=ED8B00">
-  <img alt="Static Badge" src="https://img.shields.io/badge/postgresql-%234169E1?style=for-the-badge&logo=postgresql&logoColor=black&color=%234169E1">
-  <img alt="Static Badge" src="https://img.shields.io/badge/mysql-00000F?style=for-the-badge&logo=mysql&logoColor=white&color=00000F">
-  <img alt="Static Badge" src="https://img.shields.io/badge/arduino-%2300878F?style=for-the-badge&logo=arduino&color=%2300878F">
-  <img alt="Static Badge" src="https://img.shields.io/badge/Kotlin-%237F52FF?style=for-the-badge&logo=Kotlin&logoColor=white&labelColor=black&color=%237F52FF">
 
-[![My Skills](https://skillicons.dev/icons?i=aws,gcp,azure,react,vue,flutter&perline=3)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=c,cs,cpp,python,aws,gcp,azure,react,vue,flutter,java,javascript,html,css&perline=8)](https://skillicons.dev)
 
 
 
