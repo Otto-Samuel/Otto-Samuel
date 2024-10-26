@@ -8,7 +8,7 @@
 </div>
  <div align='center'>
 
-   ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Otto-Samuel&theme=gotham) 
+   ![](https://github-readme-stats.vercel.app/api?username=Otto-Samuel&show_icons=true&theme=gotham)
    ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Otto-Samuel&theme=gotham&utcOffset={utcOffset})
    ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Otto-Samuel&theme=gotham&exclude={exclude})
    ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Otto-Samuel&theme=gotham&exclude={exclude})
@@ -63,6 +63,8 @@
   <img align="center" src="https://github.com/VariableBee/VariableBee/assets/77739311/4e9f41af-6b57-49a7-b15a-74322e96b4d7" alt="Imagem">
 </p>
 
+   ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Otto-Samuel&theme=gotham) 
+
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Otto-Samuel&bg_color=000000&color=15BFE5&line=07e9a5&point=0a855c&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
  <div align='center'>
@@ -87,7 +89,6 @@
   <br>
 </div>
 
-![VariableBee GitHub stats](https://github-readme-stats.vercel.app/api?username=Otto-Samuel&show_icons=true&theme=gotham)
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=42ba82&height=120&section=footer"/>
 
