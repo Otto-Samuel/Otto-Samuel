@@ -9,7 +9,7 @@
  <div align='center'>
 
    ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Otto-Samuel&theme=gotham)
-   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Otto-Samuel&layout=compact&hide_border=true&title_color=289f83&text_color=98d0cd&bg_color=0C1014" />
+   ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Otto-Samuel&theme=gotham&exclude={exclude})
     ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Otto-Samuel&theme=gotham)
   
 </div>
