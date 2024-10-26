@@ -9,9 +9,10 @@
  <div align='center'>
 
    ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Otto-Samuel&theme=gotham)
+   
+   ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Otto-Samuel&theme=gotham)
    ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Otto-Samuel&theme=gotham&exclude={exclude})
    ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Otto-Samuel&theme=gotham&exclude={exclude})
-   ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Otto-Samuel&theme=gotham)
   
 </div>
 
