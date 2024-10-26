@@ -76,7 +76,6 @@
  
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Otto-Samuel&theme=onestar&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
-
 </p>
 
 <div align="center">
@@ -86,6 +85,7 @@
   <br>
 </div>
 
+![VariableBee GitHub stats](https://github-readme-stats.vercel.app/api?username=Otto-Samuel&show_icons=true&theme=gotham)
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=42ba82&height=120&section=footer"/>
 
