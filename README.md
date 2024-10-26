@@ -1,6 +1,7 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=02EC9D&height=120&section=header"/> 
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=97d5c9&size=35&center=true&vCenter=true&width=1000&lines=Olá,+meu+nome+é+Otto+Samuel+👋;tenho+20+anos;eu+sou+de+Ananideua,+PA;eu+estudo+ciência+da+computação;Seja+Bem+Vindo!+:%29)](https://git.io/typing-svg)
+
 <div>
   <br></br>
   <br></br>
@@ -9,6 +10,7 @@
    
    ![VariableBee GitHub stats](https://github-readme-stats.vercel.app/api?username=Otto-Samuel&show_icons=true&theme=gotham)
    <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Otto-Samuel&layout=compact&hide_border=true&title_color=289f83&text_color=98d0cd&bg_color=0d1117" />
+   ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Otto-Samuel&theme=gotham)
 </div>
 
 ### &nbsp; » tecnologias que eu utilizo
@@ -32,6 +34,7 @@
   <img alt="Static Badge" src="https://img.shields.io/badge/Kotlin-%237F52FF?style=for-the-badge&logo=Kotlin&logoColor=white&labelColor=black&color=%237F52FF">
 
 [![My Skills](https://skillicons.dev/icons?i=aws,gcp,azure,react,vue,flutter&perline=3)](https://skillicons.dev)
+
 
 
 </div>
