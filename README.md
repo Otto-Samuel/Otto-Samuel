@@ -13,7 +13,8 @@
    ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Otto-Samuel&theme=gotham&utcOffset=-3)
    ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Otto-Samuel&theme=gotham&exclude={exclude})
    ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Otto-Samuel&theme=gotham&exclude={exclude})
-  
+
+
 </div>
 
 ### &nbsp; » tecnologias que eu utilizo
