@@ -2,7 +2,6 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=97d5c9&size=35&center=true&vCenter=true&width=1000&lines=Olá,+meu+nome+é+Otto+Samuel+👋;tenho+20+anos;eu+sou+de+Ananideua,+PA;eu+estudo+ciência+da+computação;Seja+Bem+Vindo!+:%29)](https://git.io/typing-svg)
 
-
 <div>
   <br></br>
   <br></br>
