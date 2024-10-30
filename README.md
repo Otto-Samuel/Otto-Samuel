@@ -24,7 +24,7 @@
   &nbsp;
   
 
-[![My Skills](https://skillicons.dev/icons?i=c,cs,cpp,python,aws,vscode,gcp,azure,react,vue,flutter,java,javascript,html,css,kotlin,android&perline=8)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=c,cs,cpp,python,aws,vscode,gcp,azure,java,javascript,html,css,kotlin,androidstudio,django,postgres,mysql,mongo&perline=9)](https://skillicons.dev)
 
 
 
