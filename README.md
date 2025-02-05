@@ -31,9 +31,6 @@
   
 
 [![My Skills](https://skillicons.dev/icons?i=c,cs,cpp,python,arduino,vscode,gcp,java,javascript,html,css,kotlin,androidstudio,django,postgres,mysql,matlab,mongo&perline=9)](https://skillicons.dev)
-
-
-
 </div>
 
 > ### _**frameworks**_
