@@ -62,10 +62,11 @@
 </div>
 <br>
  <br>
+
  
-<p align="center">
+<div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Otto-Samuel&theme=onestar&row=2&no-bg=true&column=4&margin-w=15&margin-h=15" />
-</p>
+</div>
 
 <div align="center">
   <br>
