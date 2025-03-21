@@ -6,7 +6,7 @@
   <br></br>
 </div>
  <div align='center'>
- 
+
 
    ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Otto-Samuel&theme=gotham&border_color=000000&rank_icon=github)
    ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Otto-Samuel&theme=gotham&utcOffset=-3)
