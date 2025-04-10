@@ -18,8 +18,6 @@
 
 </div>
 
-### &nbsp; » tecnologias que eu utilizo
-
 > ### _**Linguagens de Programação**_
 
 <div style="display: inline_block">
