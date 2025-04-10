@@ -18,7 +18,7 @@
 
 </div>
 
-> ### _**Linguagens de Programação**_
+> ### _**SKILLS**_
 
 <div style="display: inline_block">
   &nbsp;
