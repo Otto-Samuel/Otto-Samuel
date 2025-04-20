@@ -13,7 +13,6 @@
    ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Otto-Samuel&theme=gotham&exclude={exclude})
 
 
-
 </div>
 
 > ### _**SKILLS**_
