@@ -28,12 +28,14 @@
 [![My Skills](https://skillicons.dev/icons?i=c,cs,cpp,python,arduino,vscode,java,javascript,html,css,kotlin,androidstudio,postgres,mysql,matlab,mongo&perline=9)](https://skillicons.dev)
 </div>
 
-> ### _**frameworks**_
- &nbsp; <img alt="Static Badge" src="https://img.shields.io/badge/.net-%236B298A?style=for-the-badge&logo=dotnet&logoColor=white&color=%236B298A"> 
- <img alt="Static Badge" src="https://img.shields.io/badge/pytorch-%23EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white&color=%23EE4C2C">
- <img alt="Static Badge" src="https://img.shields.io/badge/flask-%23EE4C2C?style=for-the-badge&logo=flask&logoColor=white&color=%23000000">
- <img alt="Static Badge" src="https://img.shields.io/badge/react-%2361DAFB?style=for-the-badge&logo=React&logoColor=%2361DAFB&labelColor=black&color=%2361DAFB">
+## _**frameworks**_  <img width="30px" src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif">
+ 
+<div style="display: inline_block">
+  &nbsp;
+  
 
+[![My Skills](https://skillicons.dev/icons?i=net,pytorch,react,flask&perline=9)](https://skillicons.dev)
+</div>
 
 
 
