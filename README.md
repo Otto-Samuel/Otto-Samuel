@@ -7,13 +7,10 @@
 </div>
  <div align='center'>
 
-
    ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Otto-Samuel&theme=gotham&border_color=000000&rank_icon=github)
    ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Otto-Samuel&theme=gotham&utcOffset=-3)
    ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Otto-Samuel&theme=gotham&exclude={exclude})
    ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Otto-Samuel&theme=gotham&exclude={exclude})
-
-
 </div>
 
             
@@ -41,7 +38,8 @@
 
 
   <br>
-  
+
+- #### <span>🧑‍💻 Sou aluno de ciencia da computacao</span><br>
 - #### <span> 🌱 Atualmente estudando Java e me aprofundando em Spring Boot</span><br>
 - #### <span>📘 Estudando programação na Udemy</span><br>
 - #### <span>🔭 Iniciei meus estudos na programação em 2021</span><br>
