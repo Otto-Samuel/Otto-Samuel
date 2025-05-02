@@ -29,7 +29,6 @@
  
 <div style="display: inline_block">
   &nbsp;
-  
 
 [![My Skills](https://skillicons.dev/icons?i=net,pytorch,react,flask&perline=9)](https://skillicons.dev)
 </div>
