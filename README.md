@@ -35,7 +35,6 @@
 </div>
 
 
-
   <br>
 
 - #### <span> 🌱 Atualmente estudando Java e me aprofundando em Spring Boot</span><br>
