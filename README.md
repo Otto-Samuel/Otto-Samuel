@@ -33,7 +33,6 @@
 [![My Skills](https://skillicons.dev/icons?i=net,pytorch,react,flask&perline=9)](https://skillicons.dev)
 </div>
 
-
   <br>
 
 - #### <span> 🌱 Atualmente estudando Java e me aprofundando em Spring Boot</span><br>
