@@ -22,7 +22,7 @@
   &nbsp;
   
 
-[![My Skills](https://skillicons.dev/icons?i=python,arduino,vscode,java,javascript,html,css,kotlin,git,postgres,mysql,r,mongo,matlab,docker,linux&perline=9)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=python,arduino,vscode,java,javascript,html,css,kotlin,git,postgres,mysql,r,mongo,matlab,docker,linux,c&perline=9)](https://skillicons.dev)
 
 
 </div>
