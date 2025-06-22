@@ -34,7 +34,7 @@
 </div>
 
   <br>
-- #### <span> 🌱 Atualmente estudando Java e me aprofundando em Spring Boot</span><br>
+  
 - #### <span>📘 Estudando programação na Udemy</span><br>
 - #### <span>🔭 Iniciei meus estudos na programação em 2021</span><br>
 - #### <span>🔬 Estudando Ciencia de dados e IA ⚛️</span>
