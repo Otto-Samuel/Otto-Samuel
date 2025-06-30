@@ -12,7 +12,6 @@
    ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Otto-Samuel&theme=gotham&exclude={exclude})
    ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Otto-Samuel&theme=gotham&exclude={exclude})
 </div>
-
             
 ## _**SKILLS and TOOLS**_    <img width="30px" src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif">        
 
@@ -23,13 +22,11 @@
 [![My Skills](https://skillicons.dev/icons?i=python,arduino,vscode,java,javascript,html,css,kotlin,git,postgres,mysql,mongo,matlab,docker,linux,c,react,flask&perline=9)](https://skillicons.dev)
 
 </div>
-
-
   <br>
   
-- #### <span>📘 Estudando programação na Udemy</span><br>
-- #### <span>🔭 Iniciei meus estudos na programação em 2021</span><br>
-- #### <span>🔬 Estudando Ciencia de dados e IA ⚛️</span>
+- #### <span>📘 Studying programming on Udemy</span><br>
+- #### <span>🔭 I started my studies in programming in 2021</span><br>
+- #### <span>🔬 Studying Data Science and AI ⚛️</span>
 <br>
 
 <p align="center">
@@ -57,7 +54,7 @@
 
 <div align="center">
   <br>
-  <p align="center" style="color: blue;"><b>Contagem de visitantes</b></p>  
+  <p align="center" style="color: blue;"><b>Visitor count</b></p>  
   <p align="center"><img align="center" src="https://profile-counter.glitch.me/{Otto-Samuel}/count.svg" /></p> 
   <br>
 </div>
