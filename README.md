@@ -19,7 +19,7 @@
   &nbsp;
 
 
-[![My Skills](https://skillicons.dev/icons?i=python,arduino,vscode,java,javascript,git,postgres,mysql,matlab,docker,linux,react,flask&perline=9)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=python,arduino,vscode,java,javascript,git,postgres,mysql,matlab,docker,linux,react&perline=9)](https://skillicons.dev)
 
 </div>
   <br>
@@ -56,7 +56,7 @@
   <br>
   <p align="center" style="color: blue;"><b>Visitor count</b></p>  
   
-  <img align="center" src="https://profile-counter.glitch.me/{Otto-Samuel}/count.svg" />
+  <img align="center" src="https://profile-counter.glitch.me/{Otto-Samuel}/count.svg"/>
   
   <br>
 </div>
