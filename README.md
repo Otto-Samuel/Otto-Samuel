@@ -56,7 +56,7 @@
   <br>
   <p align="center" style="color: blue;"><b>Visitor count</b></p>  
   
-  <p align="center"><img align="center" src="https://profile-counter.glitch.me/{Otto-Samuel}/count.svg" /></p> 
+  <img align="center" src="https://profile-counter.glitch.me/{Otto-Samuel}/count.svg" />
   
   <br>
 </div>
