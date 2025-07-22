@@ -24,9 +24,12 @@
 </div>
 </div>
   <br>
-  
+  <div align="center">
+    
 - #### <span>🔭 Comecei meus estudos em programação em 2021</span><br>
 - #### <span>🔬 Estudando Ciencia de dados e IA ⚛️</span>
+  </div>
+  
 <br>
 
 <p align="center">
