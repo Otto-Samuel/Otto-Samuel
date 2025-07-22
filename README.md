@@ -57,9 +57,8 @@
 
 <div align="center">
   <br>
-  <p align="center" style="color: blue;"><b>Visitor count</b></p>  
-  
-  <img align="center" src="https://profile-counter.glitch.me/{Otto-Samuel}/count.svg"/>
+
+  <img src="https://raw.githubusercontent.com/Otto-Samuel/Otto-Samuel/output/snake.svg" alt="Snake animation" />
   
   <br>
 </div>
