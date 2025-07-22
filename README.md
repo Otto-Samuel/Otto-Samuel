@@ -12,21 +12,21 @@
    ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Otto-Samuel&theme=gotham&exclude={exclude})
    ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Otto-Samuel&theme=gotham&exclude={exclude})
 </div>
-            
+<div align="center">
+  
 ## _**SKILLS and TOOLS**_    <img width="30px" src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif">        
 
 <div style="display: inline_block">
   &nbsp;
 
-
 [![My Skills](https://skillicons.dev/icons?i=python,arduino,vscode,java,javascript,git,postgres,mysql,matlab,docker,linux,react&perline=9)](https://skillicons.dev)
 
 </div>
+</div>
   <br>
   
-- #### <span>📘 Studying programming on Udemy</span><br>
-- #### <span>🔭 I started my studies in programming in 2021</span><br>
-- #### <span>🔬 Studying Data Science and AI ⚛️</span>
+- #### <span>🔭 Comecei meus estudos em programação em 2021</span><br>
+- #### <span>🔬 Estudando Ciencia de dados e IA ⚛️</span>
 <br>
 
 <p align="center">
