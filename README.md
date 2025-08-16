@@ -51,14 +51,24 @@
   <img src="https://github-profile-trophy.vercel.app/?username=Otto-Samuel&theme=onestar&row=2&no-bg=true&column=4&margin-w=15&margin-h=15" />
 </div>
 
+<!--
 <div align="center">
   <br>
-
   <img src="https://raw.githubusercontent.com/Otto-Samuel/Otto-Samuel/output/snake.svg" alt="Snake animation" />
-  
-
 </div>
+-->
 
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="images/breakout-dark.svg"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="images/breakout-light.svg"
+  />
+  <img alt="Breakout Game" src="images/breakout-light.svg" />
+</picture>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=42ba82&height=120&section=footer"/>
 
