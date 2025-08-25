@@ -40,15 +40,14 @@
  <div align='center'>
   
   [![Social](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/otto_s4muel/)
-  [![Social](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/profile.php?id=100092335128107)
   [![Social](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/otto-samuel-597826187/)
-  [![Social](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://www.discord.com/ottosamuel)
+  [![Social](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord-readme-badge.vercel.app/api?id=1242970911293046857)
   [![Social](https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white)](https://gitlab.com/Otto-Samuel)
 </div>
 
  
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Otto-Samuel&theme=onestar&row=2&no-bg=true&column=4&margin-w=15&margin-h=15" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Otto-Samuel&theme=onestar&row=2&no-bg=true&column=4&margin-w=14&margin-h=14" />
 </div>
 
 <!--
@@ -57,7 +56,7 @@
   <img src="https://raw.githubusercontent.com/Otto-Samuel/Otto-Samuel/output/snake.svg" alt="Snake animation" />
 </div>
 -->
-
+<div align="center">
 <picture>
   <source
     media="(prefers-color-scheme: dark)"
@@ -69,6 +68,7 @@
   />
   <img alt="Breakout Game" src="images/breakout-light.svg" />
 </picture>
+</div>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=42ba82&height=120&section=footer"/>
 
