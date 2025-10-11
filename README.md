@@ -13,21 +13,21 @@
   <img height="190" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Otto-Samuel&show_icons=true&theme=midnight-purple"/>
   <img height="190" alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Otto-Samuel&layout=donut&theme=midnight-purple"/>
   <img height="190" alt="Streak Stats" src="https://streak-stats.demolab.com/?user=Otto-Samuel&theme=midnight-purple&border_color=000000"/>
-  <img height="190" width="280px" alt="Coding GIF" src="https://i.pinimg.com/originals/ea/3d/0e/ea3d0e0e62fb159afb7733d1c6c9d9c6.gif"/>
+  <img height="190" width="280px" alt="Coding GIF" src="https://github.com/Otto-Samuel/Otto-Samuel/blob/main/images/ea3d0e0e62fb159afb7733d1c6c9d9c6.gif"/>
   <br>
   <br>
   <img alt="Resumo do Perfil" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Otto-Samuel&theme=aura"/>
 </div>
 
-<!-- Projetos fixados e tempo de programação -->
-<p align="center">
+<br>
+<div align="center">
   <a href="https://github.com/Otto-Samuel/Implementacao_IA">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Otto-Samuel&repo=github-readme-stats&theme=midnight-purple"/>
-  </a>
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Otto-Samuel&repo=Implementacao_IA&theme=midnight-purple"/>
+  </a>&nbsp;&nbsp;
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Otto-Samuel&theme=midnight-purple"/>
   </a>
-</p>
+</div>
 
 <!-- Skills -->
 <p align="center">
