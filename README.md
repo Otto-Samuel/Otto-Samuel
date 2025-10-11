@@ -28,7 +28,7 @@
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=Otto-Samuel&repo=Xadrez-Java&theme=midnight-purple"/>
   </a>&nbsp;&nbsp;
 </div>
-
+<br>
 <!-- Skills -->
 <p align="center">
   <a href="https://skillicons.dev">
