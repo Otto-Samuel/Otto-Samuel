@@ -24,9 +24,9 @@
   <a href="https://github.com/Otto-Samuel/Implementacao_IA">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=Otto-Samuel&repo=Implementacao_IA&theme=midnight-purple"/>
   </a>&nbsp;&nbsp;
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Otto-Samuel&theme=midnight-purple"/>
-  </a>
+ <a href="https://github.com/Otto-Samuel/Xadrez-Java">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Otto-Samuel&repo=Xadrez-Java&theme=midnight-purple"/>
+  </a>&nbsp;&nbsp;
 </div>
 
 <!-- Skills -->
