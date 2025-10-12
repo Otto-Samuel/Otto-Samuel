@@ -1,10 +1,17 @@
 <!-- Capa -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=5F30C7&height=120&section=header"/>
-
+<div align="center">
+  
+  <b>`开发人员云`</b>
+  <samp>
+      <br>
+      Hi there! I'm <b>Otto Samuel</b>
+  </samp>
+</div>
 <!-- Mensagem animada -->
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?color=C7DBFF&size=35&center=true&vCenter=true&width=1000&lines=Oi,+eu+sou+Otto+Samuel;sou+de+ananindeua,+Pará;eu+estudo+ciência+da+computação;seja+bem-vindo!+:%29"/>
+    <img src="https://readme-typing-svg.herokuapp.com/?color=C7DBFF&size=35&center=true&vCenter=true&width=1000&lines=Hi,+I'm+Otto+Samuel;I'm+from+Brazil;I+study+computer+science;welcome!+:%29"/>
   </a>
 </p>
 
