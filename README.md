@@ -39,7 +39,7 @@
 <!-- Skills -->
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,js,react,java,git,postgres,mysql,docker,kubernetes,linux,tailwind,postman,spring,figma,aws&perline=9"/>
+    <img src="https://skillicons.dev/icons?i=python,js,react,java,git,postgres,mongodb,mysql,androidstudio,kotlin,postman,figma,firebase,flask,docker,graphql&perline=8"/>
   </a>
 </p>
 
