@@ -28,12 +28,13 @@
 
 <br>
 <div align="center">
-  <a href="https://github.com/Otto-Samuel/Implementacao_IA">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Otto-Samuel&repo=Implementacao_IA&theme=midnight-purple"/>
-  </a>&nbsp;&nbsp;
+  
  <a href="https://github.com/Otto-Samuel/Xadrez-Java">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=Otto-Samuel&repo=Xadrez-Java&theme=midnight-purple"/>
-  </a>&nbsp;&nbsp;
+  </a>
+  <a href="https://github.com/Otto-Samuel/Titanic---Machine-Learning-from-Disaster">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Otto-Samuel&repo=Titanic---Machine-Learning-from-Disaster&theme=midnight-purple"/>
+  </a>
 </div>
 <br>
 <!-- Skills -->
