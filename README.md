@@ -18,8 +18,11 @@
 <div align="center">
   <!-- Estatísticas principais -->
   <img height="190" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Otto-Samuel&show_icons=true&theme=midnight-purple"/>
+  
   <img height="190" alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Otto-Samuel&layout=donut&theme=midnight-purple"/>
+  
   <img height="190" alt="Streak Stats" src="https://streak-stats.demolab.com/?user=Otto-Samuel&theme=midnight-purple&border_color=000000"/>
+  
   <img height="190" width="280px" alt="Coding GIF" src="https://github.com/Otto-Samuel/Otto-Samuel/blob/main/images/ea3d0e0e62fb159afb7733d1c6c9d9c6.gif"/>
   <br>
   <br>
