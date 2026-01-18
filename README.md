@@ -40,27 +40,48 @@
   </a>
 </div>
 <br>
-<!-- Skills -->
 
+<!-- Skills (table layout to keep two columns side-by-side) -->
+<table align="center"
+       style="max-width:1100px; width:100%; border-collapse:collapse; border-spacing:0; border:None;">
+  <tr>
+    <!-- left column: Techs + Badges -->
+    <td style="vertical-align:top; padding:12px 24px 12px 12px; width:60%; border:none;">
+      <h3 style="margin-top:-2px;margin:6px 0 12px 6px; font-weight:300; font-size:28px; color:#e6e6e6;">Technologies</h3>
 
-<div align="center">
-  <div style="display: flex; justify-content: center; gap:12px; align-items: flex-start;">
-    <div>
-    <h3 align="start" style="margin-top:-2px; font-weight:300;font-size:25px">Technologies</h3>
-      <img src="https://skillicons.dev/icons?i=python,js,ts,react,java,git,postgres,mongodb,mysql,flutter,kotlin,postman,figma,firebase,flask,spring,graphql&perline=7" alt="Skills"/> <br>
-    <h3 align="start" style="margin-top:-1px; font-weight:300;font-size:25px">Badges</h3>
-      <div style="display: flex; align-items: flex-start;">
-        <img src="https://www.googleapis.com/download/storage/v1/b/kaggle-user-content/o/inbox%2F1488634%2F09e1f99bdf3222934ad7769409ec3f6d%2FBadge-26.svg?generation=1727468059623106&alt=media">
-        <img src="https://www.googleapis.com/download/storage/v1/b/kaggle-user-content/o/inbox%2F10489106%2F8235ef48b7e37d36d6e081d112f303de%2FBadge-62.svg?generation=1758039755687969&alt=media">
-        <img src="https://www.googleapis.com/download/storage/v1/b/kaggle-user-content/o/inbox%2F1488634%2F059c9b5e8bad980032971b42cb35cb10%2FBadge-44.svg?generation=1727468322667890&alt=media">
+  <img
+        src="https://skillicons.dev/icons?i=python,js,ts,react,java,git,postgres,mongodb,mysql,flutter,kotlin,postman,figma,firebase,flask,spring,graphql&amp;perline=7"
+        alt="Skills"
+        style="display:block; max-width:100%; height:auto; margin:0 0 18px 6px; border:none;"
+      />
+
+  <h3 style="margin:6px 0 12px 6px; font-weight:300; font-size:28px; color:#e6e6e6;">Badges</h3>
+  <div style="display:flex; gap:12px; align-items:center; flex-wrap:wrap; margin:6px 0 0 6px;">
+        <img src="https://www.googleapis.com/download/storage/v1/b/kaggle-user-content/o/inbox%2F1488634%2F09e1f99bdf3222934ad7769409ec3f6d%2FBadge-26.svg?generation=1727468059623106&amp;alt=media"
+             alt="badge-1"
+             style="width:72px; height:auto; border-radius:8px; box-shadow:0 6px 18px rgba(0,0,0,0.45); border:none;" />
+        <img src="https://www.googleapis.com/download/storage/v1/b/kaggle-user-content/o/inbox%2F10489106%2F8235ef48b7e37d36d6e081d112f303de%2FBadge-62.svg?generation=1758039755687969&amp;alt=media"
+             alt="badge-2"
+             style="width:72px; height:auto; border-radius:8px; box-shadow:0 6px 18px rgba(0,0,0,0.45); border:none;" />
+        <img src="https://www.googleapis.com/download/storage/v1/b/kaggle-user-content/o/inbox%2F1488634%2F059c9b5e8bad980032971b42cb35cb10%2FBadge-44.svg?generation=1727468322667890&amp;alt=media"
+             alt="badge-3"
+             style="width:72px; height:auto; border-radius:8px; box-shadow:0 6px 18px rgba(0,0,0,0.45); border:none;" />
       </div>
-    </div>
-    <div>
-      <a href="https://app.daily.dev/ottosamuel"><img src="https://api.daily.dev/devcards/v2/fdTLFoDSc1nlb2nhtDOUM.png?type=default&r=q2d" width="auto" height="400" alt="otto samuel's Dev Card"/></a>
-    </div>
-  </div>
-</div>
-
+    </td>
+<!-- right column: daily.dev card -->
+    <td style="vertical-align:top; padding:12px 12px 12px 24px; width:40%; border:none;">
+      <div style="display:flex; justify-content:center;">
+        <a href="https://app.daily.dev/ottosamuel" target="_blank" rel="noopener noreferrer" style="display:block; border:none;">
+          <img
+            src="https://api.daily.dev/devcards/v2/fdTLFoDSc1nlb2nhtDOUM.png?type=default&amp;r=q2d"
+            alt="otto samuel's Dev Card"
+            style="width:320px; max-width:100%; height:auto; border-radius:20px; box-shadow:0 12px 30px rgba(0,0,0,0.6); display:block; border:none;"
+          />
+        </a>
+      </div>
+    </td>
+  </tr>
+</table>
 <!-- Contribuições -->
 <div align="center">
   <img src="https://github-contributor-stats.vercel.app/api?username=Otto-Samuel&limit=6&theme=midnight-purple"/>
