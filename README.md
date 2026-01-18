@@ -40,33 +40,27 @@
   </a>
 </div>
 <br>
-<!-- Skills + Followers (esquerda)  |  daily.dev (direita) -->
+<!-- Skills -->
+
+
 <div align="center">
-  <div style="display:flex; justify-content:center; gap:16px; align-items:flex-start; width:100%;">
-    <!-- coluna esquerda: skills + followers -->
-    <div style="max-width:65%; min-width:300px;">
-      <!-- Skills -->
-      <div>
-        <img src="https://skillicons.dev/icons?i=python,js,ts,react,java,git,postgres,mongodb,mysql,flutter,kotlin,postman,figma,firebase,flask,spring,graphql&perline=5"
-             alt="Skills" style="max-width:100%; height:auto; display:block; margin:0 auto 6px; border-radius:6px;">
-      </div>
-      <!-- Followers card (coloque aqui o SVG gerado) -->
-      <div style="margin-top:8px; padding-top:8px; border-top:1px solid rgba(255,255,255,0.04);">
-        <!-- Ajuste o height para deixar do tamanho que quiser -->
-        <img src="./.github/followers.svg" alt="followers" style="height:72px; display:block; margin:6px 0 0 10px;">
-        <!-- Se preferir centralizar os avatares abaixo das skills, use: margin: 6px auto 0; -->
+  <div style="display: flex; justify-content: center; gap:12px; align-items: flex-start;">
+    <div>
+    <h3 align="start" style="margin-top:-2px; font-weight:300;font-size:25px">Technologies</h3>
+      <img src="https://skillicons.dev/icons?i=python,js,ts,react,java,git,postgres,mongodb,mysql,flutter,kotlin,postman,figma,firebase,flask,spring,graphql&perline=7" alt="Skills"/> <br>
+    <h3 align="start" style="margin-top:-1px; font-weight:300;font-size:25px">Badges</h3>
+      <div style="display: flex; align-items: flex-start;">
+        <img src="https://www.googleapis.com/download/storage/v1/b/kaggle-user-content/o/inbox%2F1488634%2F09e1f99bdf3222934ad7769409ec3f6d%2FBadge-26.svg?generation=1727468059623106&alt=media">
+        <img src="https://www.googleapis.com/download/storage/v1/b/kaggle-user-content/o/inbox%2F10489106%2F8235ef48b7e37d36d6e081d112f303de%2FBadge-62.svg?generation=1758039755687969&alt=media">
+        <img src="https://www.googleapis.com/download/storage/v1/b/kaggle-user-content/o/inbox%2F1488634%2F059c9b5e8bad980032971b42cb35cb10%2FBadge-44.svg?generation=1727468322667890&alt=media">
       </div>
     </div>
-    <!-- coluna direita: daily.dev card -->
-    <div style="max-width:35%; min-width:240px; display:flex; justify-content:flex-end;">
-      <a href="https://app.daily.dev/ottosamuel" style="display:block">
-        <img src="https://api.daily.dev/devcards/v2/fdTLFoDSc1nlb2nhtDOUM.png?type=default&r=q2d"
-             alt="otto samuel's Dev Card"
-             style="width:auto; height:380px; border-radius:12px; box-shadow:0 6px 18px rgba(0,0,0,0.45); display:block;">
-      </a>
+    <div>
+      <a href="https://app.daily.dev/ottosamuel"><img src="https://api.daily.dev/devcards/v2/fdTLFoDSc1nlb2nhtDOUM.png?type=default&r=q2d" width="auto" height="400" alt="otto samuel's Dev Card"/></a>
     </div>
   </div>
 </div>
+
 <!-- Contribuições -->
 <div align="center">
   <img src="https://github-contributor-stats.vercel.app/api?username=Otto-Samuel&limit=6&theme=midnight-purple"/>
@@ -92,10 +86,13 @@
     <img src="https://img.shields.io/badge/Facebook-330F63?style=for-the-badge&logo=facebook&logoColor=white"/>
   </a>
   <a href="https://www.linkedin.com/in/otto-samuel-597826187/">
-    <img src="https://img.shields.io/badge/LinkedIn-330F63?style=for-the-badge&logo=linkedin&logoColor=white"/>
+    <img src="https://img.shields.io/badge/LinkedIn-330F63?style=for-the-badge&logo=Linkedin&logoColor=white"/>
   </a>
   <a href="https://gitlab.com/Otto-Samuel">
     <img src="https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white"/>
+  </a>
+  <a href="https://app.daily.dev/ottosamuel">
+    <img src="https://img.shields.io/badge/Daily-330F63?style=for-the-badge&logo=daily.dev&logoColor=white"/>
   </a>
 </div>
 
