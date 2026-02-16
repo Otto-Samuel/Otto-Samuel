@@ -73,7 +73,7 @@
       <div style="display:flex; justify-content:center;">
         <a href="https://app.daily.dev/ottosamuel" target="_blank" rel="noopener noreferrer" style="display:block; border:none;">
           <img
-            src="https://api.daily.dev/devcards/v2/fdTLFoDSc1nlb2nhtDOUM.png?type=default&r=ovt"
+            src="https://api.daily.dev/devcards/v2/fdTLFoDSc1nlb2nhtDOUM.png?type=default&r=an3"
             alt="otto samuel's Dev Card"
             style="width:320px; max-width:100%; height:auto; border-radius:20px; box-shadow:0 12px 30px rgba(0,0,0,0.6); display:block; border:none;"
           />
